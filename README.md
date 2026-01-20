@@ -1,11 +1,8 @@
 # streamlit-butterfly-oidc-template
 Streamlit starter with Google OIDC + accessibility + tabs
-Perfect — thank you.
-Below is a **ready-to-paste `README.md`** customized **exactly** for your template repository:
+
 
 👉 **[https://github.com/drmistretta/streamlit-butterfly-oidc-template](https://github.com/drmistretta/streamlit-butterfly-oidc-template)**
-
-You can copy **everything below** and paste it directly into your repo’s `README.md`.
 
 ---
 
